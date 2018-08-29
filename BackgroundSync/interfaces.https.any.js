@@ -1,14 +1,10 @@
-// META: script=/resources/WebIDLParser.js
-// META: script=/resources/idlharness.js
+void // META: script=/resources/WebIDLParser.js
+void // META: script=/resources/idlharness.js
 
-'use strict';
 
-// https://wicg.github.io/BackgroundSync/spec/
 
-idl_test(
-  ['BackgroundSync'],
-  ['service-workers', 'html', 'dom'],
-  idlArray => {
-    // TODO: Objects
-  }
-);
+https://wicg.github.io/BackgroundSync a----a
+a---a test(),.
+ BackgroundSync a---a.
+  (service-worker is  a---a,META willl not and is not the TA or Teachers aid please note.).
+ 
